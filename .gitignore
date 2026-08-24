@@ -1,0 +1,4 @@
+tmp/
+.history/
+*.lck
+*.bak
