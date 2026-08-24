@@ -10768,7 +10768,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "042e501d-91e1-4e21-9716-7d92fa6819da")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR022"
 			(at 147.32 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10828,7 +10828,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR036")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -10867,7 +10867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC201612S"
 			(at 88.9 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10981,7 +10981,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ad506a9-7eab-48b0-9ca5-f681a816910a")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR07"
 			(at 40.64 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -11041,7 +11041,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR014")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -11058,7 +11058,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b1643e4-85f9-4f6d-b17f-746becb78d08")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR036"
 			(at 222.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -11118,7 +11118,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR019")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -11135,7 +11135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d4b0be8-1807-4fa1-9e21-3ee2ebcdd551")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR035"
 			(at 207.01 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -11195,7 +11195,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR05")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -11212,7 +11212,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ece188f-a7b4-4493-9d92-9ecc9b2ff0c7")
-		(property "Reference" "R8"
+		(property "Reference" "R7"
 			(at 186.69 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11329,7 +11329,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "R8")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -11491,7 +11491,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "133f1fa1-241b-49bb-a6ca-c8ee7b851e80")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR017"
 			(at 135.89 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -11551,7 +11551,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR030")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -11568,7 +11568,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a97aff4-42c8-475e-a537-f667e52d58f3")
-		(property "Reference" "C3"
+		(property "Reference" "C19"
 			(at 234.95 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11590,7 +11590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 232.41 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -11623,7 +11623,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 232.41 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -11687,7 +11687,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C3")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -11704,7 +11704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f4b7f38-d648-4458-816a-98352724e5e4")
-		(property "Reference" "C21"
+		(property "Reference" "C8"
 			(at 156.21 178.054 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11823,7 +11823,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C21")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -11840,7 +11840,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "23fdf9fc-f72e-4fc1-8345-42f3eea0a280")
-		(property "Reference" "C7"
+		(property "Reference" "C20"
 			(at 234.95 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11862,7 +11862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 232.41 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11895,7 +11895,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 232.41 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11959,7 +11959,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C7")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -11977,7 +11977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29971711-0903-4953-85e8-1db33573d084")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 147.32 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11987,7 +11987,7 @@
 				)
 			)
 		)
-		(property "Value" "UJ20-C-H-G-MSMT-2B-P16-TR"
+		(property "Value" "USB4105-GF-A"
 			(at 147.32 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11997,7 +11997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-dev-board:UJ20-C-H-G-MSMT-2B-P16-TR"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -12030,7 +12030,7 @@
 				)
 			)
 		)
-		(property "InvId" "784"
+		(property "InvId" "792"
 			(at 147.32 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -12139,7 +12139,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -12156,7 +12156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3217ee34-96ef-4f5c-ad4b-8d8b6afdb3e0")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR021"
 			(at 143.51 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -12216,7 +12216,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR031")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -12233,7 +12233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35f06230-805e-4006-b406-3a6014320e28")
-		(property "Reference" "R9"
+		(property "Reference" "R3"
 			(at 46.99 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12350,7 +12350,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "R9")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -12367,7 +12367,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "37cd8dcb-28ad-4b18-9c5f-ffb0bd73b14c")
-		(property "Reference" "C6"
+		(property "Reference" "C17"
 			(at 222.25 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12389,7 +12389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 219.71 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12422,7 +12422,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 219.71 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12486,7 +12486,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C6")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -12504,7 +12504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38d0a155-0189-4944-a908-bbb21f9914e8")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 209.55 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12735,7 +12735,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -12752,7 +12752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b04c74e-2234-47d5-9820-57ddbea6d6d2")
-		(property "Reference" "C10"
+		(property "Reference" "C24"
 			(at 260.35 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12774,7 +12774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 257.81 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12807,7 +12807,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 257.81 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12871,7 +12871,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C10")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -12888,7 +12888,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b61b5c3-2e92-4fc9-a346-1a0782037c5a")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR04"
 			(at 27.94 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -12948,7 +12948,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR027")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -12965,7 +12965,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f0578fa-9209-4876-9517-e5901c8a197a")
-		(property "Reference" "C9"
+		(property "Reference" "C23"
 			(at 260.35 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12987,7 +12987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 257.81 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -13020,7 +13020,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 257.81 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -13084,7 +13084,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C9")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -13101,7 +13101,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fc89a08-745c-4749-ba3b-0b2b592115c7")
-		(property "Reference" "C20"
+		(property "Reference" "C12"
 			(at 179.07 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13123,7 +13123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 176.53 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -13156,7 +13156,7 @@
 				)
 			)
 		)
-		(property "InvId" "445,759"
+		(property "InvId" "795"
 			(at 176.53 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -13220,7 +13220,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C20")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -13237,7 +13237,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "40556fe4-e5ec-4bb5-89dd-58f6ba2c168d")
-		(property "Reference" "C22"
+		(property "Reference" "C9"
 			(at 166.37 178.054 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13356,7 +13356,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C22")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -13508,7 +13508,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "463741bd-b094-4be4-baba-a66d1f1b387c")
-		(property "Reference" "C12"
+		(property "Reference" "C11"
 			(at 172.72 123.444 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13530,7 +13530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 170.18 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -13563,7 +13563,7 @@
 				)
 			)
 		)
-		(property "InvId" "789"
+		(property "InvId" "794"
 			(at 170.18 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -13627,7 +13627,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C12")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -13644,7 +13644,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48a1e9c3-e84a-4435-85b6-c4360ac13223")
-		(property "Reference" "C13"
+		(property "Reference" "C6"
 			(at 151.13 123.444 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13666,7 +13666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 148.59 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -13699,7 +13699,7 @@
 				)
 			)
 		)
-		(property "InvId" "789"
+		(property "InvId" "794"
 			(at 148.59 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -13763,7 +13763,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C13")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -13915,7 +13915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bbf90ff-34f0-45dd-a934-4fcbe9a1aeff")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR028"
 			(at 165.1 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13975,7 +13975,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR039")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -13992,7 +13992,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52cd9d9a-2583-4907-ba64-9685644a4276")
-		(property "Reference" "C15"
+		(property "Reference" "C1"
 			(at 40.64 40.894 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14014,7 +14014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 38.1 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14047,7 +14047,7 @@
 				)
 			)
 		)
-		(property "InvId" "445,759"
+		(property "InvId" "795"
 			(at 38.1 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14111,7 +14111,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C15")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -14128,7 +14128,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53437809-38a9-4616-b409-229fe81fd8a4")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR020"
 			(at 143.51 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -14188,7 +14188,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR041")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -14205,7 +14205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "54fc151d-40a9-4082-ae6a-b156013b900b")
-		(property "Reference" "C16"
+		(property "Reference" "C18"
 			(at 224.79 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14227,7 +14227,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 222.25 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -14260,7 +14260,7 @@
 				)
 			)
 		)
-		(property "InvId" "445,759"
+		(property "InvId" "795"
 			(at 222.25 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -14324,7 +14324,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C16")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -14341,7 +14341,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "594fba9f-9889-4106-b26d-c75798b6925d")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR019"
 			(at 139.7 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -14401,7 +14401,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR024")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -14418,7 +14418,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c3ec088-6269-40fe-9a05-fc58456f309c")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR029"
 			(at 170.18 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -14478,7 +14478,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR012")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -14495,7 +14495,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e34b265-1949-4e5b-a16b-ab345cc5968a")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR016"
 			(at 105.41 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -14555,7 +14555,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR029")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -14572,7 +14572,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65653fae-bb5b-4183-84ee-cf6cca41af35")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR034"
 			(at 207.01 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14632,7 +14632,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR04")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -14650,7 +14650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "685f0ae4-921e-465a-90a3-557c33ed4ba2")
-		(property "Reference" "Y3"
+		(property "Reference" "Y1"
 			(at 162.56 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14660,7 +14660,7 @@
 				)
 			)
 		)
-		(property "Value" "12MHz/10pF"
+		(property "Value" "ABM8-272-T3 12MHz/10pF"
 			(at 162.56 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14773,7 +14773,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "Y3")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -14812,7 +14812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC201612S"
 			(at 138.43 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14926,7 +14926,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75a48acd-9aed-43d2-8539-a5fc21f26e89")
-		(property "Reference" "C23"
+		(property "Reference" "C3"
 			(at 88.9 179.324 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15045,7 +15045,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C23")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -15062,7 +15062,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76b8cecd-44e8-4b23-88a0-4959dbbf282a")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR033"
 			(at 207.01 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15122,7 +15122,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR06")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -15161,7 +15161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 269.24 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -15194,7 +15194,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 269.24 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -15275,7 +15275,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e05278a-56fc-43ac-bfec-8fb6e750eab5")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR026"
 			(at 158.75 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -15335,7 +15335,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR042")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -15352,7 +15352,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f4ecd46-59e2-4542-bb80-6deae508e3ef")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR040"
 			(at 266.7 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -15412,7 +15412,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR08")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -15429,7 +15429,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "821b7083-286c-4c7c-83bf-f0982dc1eb1d")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR031"
 			(at 190.5 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -15489,7 +15489,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR038")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -15506,7 +15506,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85ee4ebf-a3aa-4e56-97ff-8a8ecb08e991")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR010"
 			(at 59.69 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -15566,7 +15566,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR017")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -15583,7 +15583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8604daf1-d6be-4272-86a9-77be2f0f097e")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR02"
 			(at 17.78 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -15643,7 +15643,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR040")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -15795,7 +15795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e290bf0-2e60-4140-8bcc-ab6393dda71d")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR012"
 			(at 86.36 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15855,7 +15855,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR034")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -15872,7 +15872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91aae8f6-e568-4da2-a791-4ba6dde33d0b")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 180.34 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15989,7 +15989,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -16006,7 +16006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "98d29969-d9b3-4982-83ce-31c067463de8")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR024"
 			(at 153.67 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -16066,7 +16066,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR032")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -16083,7 +16083,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "999acc5d-118b-4518-8a7c-7bbd1b15e729")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR018"
 			(at 139.7 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -16143,7 +16143,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR023")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -16160,7 +16160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d835fa7-7d89-4c82-9998-27f2c264bab6")
-		(property "Reference" "C17"
+		(property "Reference" "C5"
 			(at 142.24 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16182,7 +16182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 139.7 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -16215,7 +16215,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 139.7 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -16279,7 +16279,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C17")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -16296,7 +16296,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a092f34e-ddcc-45eb-aa0b-aa97d5f5321e")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR041"
 			(at 274.32 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -16356,7 +16356,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR010")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -16373,7 +16373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a90d36a4-f9fc-4e9c-96bc-2edf8984a62b")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR013"
 			(at 86.36 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -16433,7 +16433,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR035")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -16527,7 +16527,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa91ed15-e1dd-4b3c-a604-12c5237335d3")
-		(property "Reference" "C8"
+		(property "Reference" "C22"
 			(at 247.65 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16549,7 +16549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 245.11 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -16582,7 +16582,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 245.11 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -16646,7 +16646,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C8")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -16664,7 +16664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab0d944f-df0a-4a7d-a0f3-c608f88386c4")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR011"
 			(at 66.04 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -16724,7 +16724,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR01")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -16742,7 +16742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac8ef356-a2e8-47d0-8d62-f7fd837195ea")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR08"
 			(at 55.88 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -16802,7 +16802,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR02")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -16819,7 +16819,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2ffd5bb-84eb-4ff6-a56e-5d945e23b3dc")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR09"
 			(at 59.69 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -16879,7 +16879,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR016")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -16896,7 +16896,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7619382-c54b-4c5f-a2ca-746f857b17e6")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR01"
 			(at 17.78 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -16956,7 +16956,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR025")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -16973,7 +16973,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8ecc6b6-5c7a-45c6-a911-905150881f03")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR037"
 			(at 222.25 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -17033,7 +17033,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR021")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -17050,7 +17050,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba89ec36-f621-40b3-8c6a-2b75964ac64d")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR014"
 			(at 99.06 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -17110,7 +17110,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR022")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -17127,7 +17127,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bcc36f33-6e10-4d59-9a00-04fa46c54907")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG02"
 			(at 17.78 32.385 0)
 			(hide yes)
 			(show_name no)
@@ -17187,7 +17187,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#FLG04")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -17204,7 +17204,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bcc8e488-633c-4fa4-8ca8-9491b2cbb4b8")
-		(property "Reference" "R6"
+		(property "Reference" "R5"
 			(at 147.32 148.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17321,7 +17321,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "R6")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -17338,7 +17338,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c25312b5-0104-430c-a7a9-5d1d289a7825")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR038"
 			(at 228.6 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -17398,7 +17398,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR09")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -17627,7 +17627,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5110491-523e-443a-94b4-f1fe3062ac9c")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR06"
 			(at 40.64 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -17687,7 +17687,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR015")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -17704,7 +17704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5efac84-c442-497a-ab88-6bb36f26dc88")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR023"
 			(at 148.59 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -17764,7 +17764,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR013")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -17781,7 +17781,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5fd8097-83e7-43c4-8906-d5b17ebb12c4")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR030"
 			(at 184.15 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -17841,7 +17841,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR037")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -17859,7 +17859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9b88e35-5795-4746-b882-16b8b758bd2e")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 251.46 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18090,7 +18090,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -18107,7 +18107,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb389c81-ee0d-47e3-9df5-5bc2569ee758")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR027"
 			(at 162.56 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -18167,7 +18167,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR011")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -18184,7 +18184,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccb36c1b-f0f0-4642-821f-498286f64253")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG03"
 			(at 27.94 18.415 0)
 			(hide yes)
 			(show_name no)
@@ -18244,7 +18244,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#FLG02")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -18262,7 +18262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd8afba5-5277-47d3-8a87-80aa5a9ef838")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 70.7233 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18618,7 +18618,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -18635,7 +18635,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf6546c2-5581-463d-8240-6a623de40db0")
-		(property "Reference" "C2"
+		(property "Reference" "C16"
 			(at 222.25 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18657,7 +18657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 219.71 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -18690,7 +18690,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 219.71 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -18754,7 +18754,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C2")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -18771,7 +18771,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d412ae18-fd92-49f1-9a90-7f8c64f746d4")
-		(property "Reference" "C18"
+		(property "Reference" "C7"
 			(at 154.94 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18793,7 +18793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 152.4 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -18826,7 +18826,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 152.4 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -18890,7 +18890,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C18")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -18907,7 +18907,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d57ee0c8-82b5-4d91-a240-20cf627cf347")
-		(property "Reference" "C25"
+		(property "Reference" "C13"
 			(at 190.5 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18929,7 +18929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 187.96 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -18962,7 +18962,7 @@
 				)
 			)
 		)
-		(property "InvId" "445,759"
+		(property "InvId" "795"
 			(at 187.96 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -19026,7 +19026,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C25")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -19043,7 +19043,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5f534ad-1592-48de-8635-d22ae769b33d")
-		(property "Reference" "R3"
+		(property "Reference" "R9"
 			(at 248.92 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19160,7 +19160,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "R3")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -19178,7 +19178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7f5f110-19bc-40ed-9ce8-ba3a424be6fc")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR015"
 			(at 105.41 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -19238,7 +19238,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR028")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -19277,7 +19277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 269.24 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -19310,7 +19310,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 269.24 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -19543,7 +19543,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "de292c04-05b8-4458-940f-70341e6c1d98")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG04"
 			(at 27.94 32.385 0)
 			(hide yes)
 			(show_name no)
@@ -19603,7 +19603,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#FLG03")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -19620,7 +19620,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1e2c4ed-0e30-4d71-8061-b513442d30b2")
-		(property "Reference" "C14"
+		(property "Reference" "C2"
 			(at 62.23 174.244 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19642,7 +19642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 59.69 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -19675,7 +19675,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 59.69 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -19739,7 +19739,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C14")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -19890,7 +19890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e38fa132-9fb6-40ee-a479-7645b22254ba")
-		(property "Reference" "C19"
+		(property "Reference" "C10"
 			(at 167.64 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19912,7 +19912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 165.1 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -19945,7 +19945,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 165.1 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -20009,7 +20009,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C19")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -20026,7 +20026,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e506422d-c25d-4830-9345-e6b143f56960")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR039"
 			(at 266.7 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -20086,7 +20086,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR07")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -20103,7 +20103,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e59633aa-a370-4252-9cfa-e024b2c081e2")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR025"
 			(at 153.67 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -20163,7 +20163,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR033")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -20180,7 +20180,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6df511e-ac7a-4bb9-a60f-64fd07b82af7")
-		(property "Reference" "C11"
+		(property "Reference" "C25"
 			(at 269.24 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20202,7 +20202,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 266.7 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -20235,7 +20235,7 @@
 				)
 			)
 		)
-		(property "InvId" "445,759"
+		(property "InvId" "795"
 			(at 266.7 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -20299,7 +20299,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C11")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -20316,7 +20316,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9df02d9-4aba-48d4-87da-8a236642cc15")
-		(property "Reference" "C24"
+		(property "Reference" "C4"
 			(at 99.06 179.324 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20338,7 +20338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 96.52 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -20371,7 +20371,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 96.52 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -20435,7 +20435,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C24")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -20452,7 +20452,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec8bcdec-4d4d-4190-a2e2-85784b7e56ab")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR032"
 			(at 207.01 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -20512,7 +20512,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR03")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -20529,7 +20529,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed3d1061-124d-4fa1-9591-ca0f39366a6c")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR05"
 			(at 38.1 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -20589,7 +20589,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR020")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -20606,7 +20606,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eddac82c-2229-466c-9713-cd6ecabee50a")
-		(property "Reference" "R5"
+		(property "Reference" "R8"
 			(at 207.01 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20723,7 +20723,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "R5")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -20740,7 +20740,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "effcc6e3-d6cd-469f-a00d-906f84bc7e8f")
-		(property "Reference" "C4"
+		(property "Reference" "C21"
 			(at 247.65 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20762,7 +20762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 245.11 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -20795,7 +20795,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 245.11 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -20859,7 +20859,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C4")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -20876,7 +20876,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f00ee471-85f6-44e8-af05-2d374d0525b2")
-		(property "Reference" "C5"
+		(property "Reference" "C15"
 			(at 209.55 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20898,7 +20898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 207.01 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -20931,7 +20931,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 207.01 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -20995,7 +20995,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C5")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -21012,7 +21012,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2a6233f-89e9-4830-92ad-517400cd09fa")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR03"
 			(at 27.94 19.05 0)
 			(hide yes)
 			(show_name no)
@@ -21072,7 +21072,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "#PWR026")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -21089,7 +21089,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3311137-8dc8-4b72-a234-12eafd9b4a93")
-		(property "Reference" "C1"
+		(property "Reference" "C14"
 			(at 209.55 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21111,7 +21111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 207.01 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -21144,7 +21144,7 @@
 				)
 			)
 		)
-		(property "InvId" "10,465"
+		(property "InvId" "793"
 			(at 207.01 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -21208,7 +21208,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "C1")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -21225,7 +21225,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f74fcf87-6d30-4d66-bb6f-05a34d48c682")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 41.91 163.068 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21362,7 +21362,7 @@
 		(instances
 			(project "rp2350-dev-board"
 				(path "/dec25a70-efcd-400a-820c-78fc313e43fe"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
